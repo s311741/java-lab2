@@ -14,6 +14,7 @@ public class Noivern extends Pokemon {
 		         80.0,
 		         123.0);
 		setMove(new Rest(),
+			new Roost(),
 			new DracoMeteor(),
 			new DragonPulse());
 	}

@@ -14,6 +14,7 @@ public class Noibat extends Pokemon {
 			 40.0,
 			 55.0);
 		setMove(new Rest(),
+			new Roost(),
 			new DracoMeteor());
 	}
 
